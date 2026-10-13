@@ -85,4 +85,4 @@ manuscript.
 
 ## Licence
 
-A licence still has to be chosen. MIT is a common choice for analysis code.
+Released under the MIT licence. See `LICENSE`.
