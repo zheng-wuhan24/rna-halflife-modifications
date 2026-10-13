@@ -1,0 +1,11 @@
+lightgbm
+shap
+scikit-learn
+pandas
+numpy
+scipy
+
+# The analysis was run with Python 3.12.
+# Before release, pin the exact versions actually used, for example with
+#   python -c "import lightgbm, shap, sklearn; print(lightgbm.__version__, shap.__version__, sklearn.__version__)"
+# and record them in the manuscript's Software section and in requirements-lock.txt.
